@@ -1,3 +1,3 @@
 # urban-garbanzo
 
-Repo Ohjelmistosuunnittelu- WWW-palvelinohjelmointi-kursseille.
+Repo Ohjelmistosuunnittelu- ja WWW-palvelinohjelmointi-kursseille.
