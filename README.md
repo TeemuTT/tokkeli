@@ -47,6 +47,5 @@ Karkeasti työmäärät ovat seuraavat:
 |Vaihto Laraveliin      |10h|
 |Muu logiikka           |5h 30m|
 |Ulkoasu                |7h 30m|
-|Yhteensä               |41h|
 
 Projektia suunniteltiin toisella kurssilla arviolta ~10h. Kokonaistyömäärä liikkunee 50 tunnin lähimain.
