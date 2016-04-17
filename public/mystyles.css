@@ -1,0 +1,93 @@
+
+#timerdiv {
+    border: 1px solid gray;
+    border-radius: 10px;
+    padding: 5px;
+    width: 85%;
+    margin: auto auto 10px auto;
+    text-align: center;
+}
+
+body {
+    font-family: 'Lato';
+}
+
+.fa-btn {
+    margin-right: 6px;
+}
+
+table {
+    border-spacing:0;
+    border-collapse:collapse;
+}
+
+tr {
+    border-bottom: 1px solid lightgrey;
+}
+
+tr:hover {
+    background-color: lightgrey;
+}
+
+tr:first-child {
+    border-bottom: 1px solid black;
+}
+
+tr:last-child {
+    border-bottom: 0px;
+}
+
+td, th {
+    padding-right: 20px;
+}
+
+#startTime, #endTime {
+    width: 80px;
+}
+
+#timeComment {
+    border: none;
+}
+
+#timeCategory {
+    border: none;
+    /*-moz-appearance: none;
+    -webkit-appearance: none;
+    appearance: none;*/
+}
+
+#accordion-1 {
+  width: 85%;
+  margin: auto auto 10px auto;
+}
+
+#timeSubmit {
+  margin: auto;
+  display: block;
+}
+
+#timerButton {
+  background: #f26100;
+  background-image: -webkit-linear-gradient(top, #f26100, #f54c3f);
+  background-image: -moz-linear-gradient(top, #f26100, #f54c3f);
+  background-image: -ms-linear-gradient(top, #f26100, #f54c3f);
+  background-image: -o-linear-gradient(top, #f26100, #f54c3f);
+  background-image: linear-gradient(to bottom, #f26100, #f54c3f);
+  -webkit-border-radius: 20;
+  -moz-border-radius: 20;
+  border-radius: 4px;
+  color: #ffffff;
+  font-size: 15px;
+  padding: 5px 10px 5px 10px;
+  text-decoration: none;
+  border: none;
+}
+
+#timerButton:hover {
+  background: #ff7830;
+  text-decoration: none;
+}
+
+.row {
+  margin-bottom: 20px;
+}
