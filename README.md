@@ -19,7 +19,8 @@ Tietovarastona käytetään SQLite-tietokantaa. SQLite valittiin sen helppokäyt
 Palvelimena toimii Raspberry Pi 2 Model B varustettuna Linux + Apache + SQLite + PHP-kokoonpanolla.
 
 # Järjestelmän yleiskuvaus
-![deploymentdiagram](http://student.labranet.jamk.fi/~H8705/IIM50300/deployment.png)
+![deploymentdiagram](http://student.labranet.jamk.fi/~H8705/IIM50300/deployment1.png)
+![deploymentdiagram](http://student.labranet.jamk.fi/~H8705/IIM50300/deployment2.png)
 
 Sovelluksessa toteutetaan mvc-mallia. Reititin ohjaa käyttäjän pyynnön oikealle ohjaimelle. Ohjain hakee näkymälle tarvittavat tiedot ja palauttaa näkymän käyttäjän katseltavaksi.
 ![](http://student.labranet.jamk.fi/~H8705/IIM50300/sequencediagram.png)
@@ -30,7 +31,7 @@ Taulujen väliset suhteet ovat myös helposti hallittavissa. Kaikilla malleilla 
 ![](http://student.labranet.jamk.fi/~H8705/IIM50300/luokkakaavio.png)
 
 Vastaavasti Tietokannan käsitemalli:
-![EntityRelation](http://student.labranet.jamk.fi/~H8705/IIM50300/erd.png)
+![EntityRelation](http://student.labranet.jamk.fi/~H8705/IIM50300/entityrelation.png)
 
 # Työmäärä
 Projektin työvaiheet ja ajat on kirjattu itse palveluun osoitteessa [http://91.159.76.89/~teemu/api/project/8](http://91.159.76.89/~teemu/api/project/8).
