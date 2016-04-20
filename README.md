@@ -55,3 +55,12 @@ Karkeasti työmäärät ovat seuraavat:
 |Ulkoasu                |7h 30m|
 
 Projektia suunniteltiin toisella kurssilla arviolta ~10h. Kokonaistyömäärä liikkunee 50 tunnin lähimain.
+
+# Loppukaneetit
+Harjoitustyö onnistui erittäin hyvin. Suunnittelussa määritellyt käyttötapaukset saatiin tomimaan ja palvelusta tuli jokseenkin helppokäyttöinen. Työssä onnistuttiin käyttämään Laravel-kehystä ja MVC-mallia niiden edellyttämällä tavalla. Harjoitustyö opetti paljon php-sovelluskehysten toimintaperiaatteista.
+
+Muutamat virheenkäsittelyt jäivät vielä puuttumaan ja ne hoidetaan toistaiseksi ystävällisellä, mutta mitäänsanomattomalla virheilmoituksella ("Sorry, not available"). Sovelluksesta olisi mukava saada ulos myös monipuolista dataa ajan käytöstä ja esittää sitä graafisesti esimerkiksi google charts integraatiolla.
+
+Sovellus on kuitenkin riittävän toimiva ainakin omaan käyttööni ja se pääsi jo tositoimiin windows-ohjelmointikurssin harjoitustyöni seurannassa. Tulen luultavasti käyttämään sovellusta jatkossakin ja parannuksia voi olla luvassa sitä mukaa, kun niitä itse kaipaan.
+
+Arvioisin harjoitustyön arvosanaksi 4, edellä mainituin lisäyksin ehkä jopa 5.
