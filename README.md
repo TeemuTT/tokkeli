@@ -31,7 +31,11 @@ Taulujen väliset suhteet ovat myös helposti hallittavissa. Kaikilla malleilla 
 ![](http://student.labranet.jamk.fi/~H8705/IIM50300/luokkakaavio.png)
 
 Vastaavasti Tietokannan käsitemalli:
+
 ![EntityRelation](http://student.labranet.jamk.fi/~H8705/IIM50300/entityrelation.png)
+
+SQLite-tietokannassa ei käytetä viiteavaimia. Alla oleva vanha mallinnus auttaa hahmottamaan taulujen välisiä relaatioita:
+![EntityRelation](http://student.labranet.jamk.fi/~H8705/IIM50300/entityrelation-old.png)
 
 # Työmäärä
 Projektin työvaiheet ja ajat on kirjattu itse palveluun osoitteessa [http://tokkeli.herokuapp.com/api/project/1](http://tokkeli.herokuapp.com/api/project/1).
