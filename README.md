@@ -16,7 +16,7 @@ Sovellus on toteutettu käyttäen Laravel-sovelluskehystä. Halusin oppia PHP:n 
 
 Tietovarastona käytetään SQLite-tietokantaa. SQLite valittiin sen helppokäyttöisyyden takia. Koska sovellus ei sijaitse oppilaitoksen palvelimella, ei oppilaitoksen tarjoamaa MySQL-tietokantaa ei valittu, sillä sen käyttö olisi vaatinut aina VPN-yhteyden.
 
-Palvelimena toimii Raspberry Pi 2 Model B varustettuna Linux + Apache + SQLite + PHP-kokoonpanolla.
+Palvelimena toimi aluksi Raspberry Pi 2 Model B varustettuna Linux + Apache + SQLite + PHP-kokoonpanolla. Nykyisellään tokkeli on tarjolla myös herokussa osoitteessa [http://tokkeli.herokuapp.com](http://tokkeli.herokuapp.com).
 
 # Järjestelmän yleiskuvaus
 ![deploymentdiagram](http://student.labranet.jamk.fi/~H8705/IIM50300/deployment1.png)
@@ -34,7 +34,7 @@ Vastaavasti Tietokannan käsitemalli:
 ![EntityRelation](http://student.labranet.jamk.fi/~H8705/IIM50300/entityrelation.png)
 
 # Työmäärä
-Projektin työvaiheet ja ajat on kirjattu itse palveluun osoitteessa [http://91.159.76.89/~teemu/api/project/8](http://91.159.76.89/~teemu/api/project/8).
+Projektin työvaiheet ja ajat on kirjattu itse palveluun osoitteessa [http://tokkeli.herokuapp.com/api/project/1](http://tokkeli.herokuapp.com/api/project/1).
 
 Karkeasti työmäärät ovat seuraavat:
 
