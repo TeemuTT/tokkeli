@@ -34,7 +34,7 @@ Vastaavasti Tietokannan käsitemalli:
 
 ![EntityRelation](http://student.labranet.jamk.fi/~H8705/IIM50300/entityrelation.png)
 
-SQLite-tietokannassa ei käytetä viiteavaimia. Alla oleva vanha mallinnus auttaa hahmottamaan taulujen välisiä relaatioita:
+SQLite-tietokannassa ei käytetä viiteavaimia. Alla oleva vanhentunut MySQL-käsitemalli auttaa hahmottamaan taulujen välisiä relaatioita:
 ![EntityRelation](http://student.labranet.jamk.fi/~H8705/IIM50300/entityrelation-old.png)
 
 # Työmäärä
